@@ -10,3 +10,4 @@ dopustim
 add line >>File1.txt
 echo add line
 new branch line
+new line for GUI
